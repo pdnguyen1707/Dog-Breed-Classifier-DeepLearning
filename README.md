@@ -25,7 +25,7 @@ This project uses Convolutional Neural Networks (CNNs) and transfer learning in 
 * dog_app.html: A copy of dog_app.ipynb in html format.
 * Haarcascades folder: Xml file for use with the OpenCv face detector class.
 * Various images: Images in jpg and jpeg format used to test the algorithm's predictions.
-* keras-rest-api.git: To start the Keras model as rest API
+* run_keras_server: To start the Keras model as rest API
 * simple_request.py: To submit requests to Keras server
 
 
