@@ -10,7 +10,7 @@ This project uses Convolutional Neural Networks (CNNs) and transfer learning in 
 2. [File Descriptions](#files)
 3. [Content](#contents)
 4. [Findings](#findings)
-5. [Blog post] (https://medium.com/how-austin-airbnb-hosts-can-earn-extra-from-public/dog-breed-classifier-deep-learning-85282fc8639d)
+5. [Blog_post] (https://medium.com/how-austin-airbnb-hosts-can-earn-extra-from-public/dog-breed-classifier-deep-learning-85282fc8639d)
 
 ### Libraries <a name="libraries"></a>
 
