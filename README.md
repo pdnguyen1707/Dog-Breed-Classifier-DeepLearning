@@ -10,6 +10,7 @@ This project uses Convolutional Neural Networks (CNNs) and transfer learning in 
 2. [File Descriptions](#files)
 3. [Content](#contents)
 4. [Findings](#findings)
+5. [Blog post] (https://medium.com/how-austin-airbnb-hosts-can-earn-extra-from-public/dog-breed-classifier-deep-learning-85282fc8639d)
 
 ### Libraries <a name="libraries"></a>
 
@@ -44,6 +45,7 @@ The project is organized along the following steps:
 
 ### Findings <a name="findings"></a>
 
+* The blog post discusses the walkthrough and outcome of each step in the project are in [here](https://medium.com/how-austin-airbnb-hosts-can-earn-extra-from-public/dog-breed-classifier-deep-learning-85282fc8639d)
 * The model achieved a test accuracy of 81.22%, which is above the 60% established accuracy threshold.
 * The model predicted the same two or three breeds when identifying an image as human. Therefore more variety is needed concerning the type of breeds the model predicts for humans. 
 * Some of the breeds have similar colors and shapes but differ in size, as is the case between a Beagle and a Pointer or American Foxhound. Therefore the model needs to pick up subtle differences between similar breeds. 
