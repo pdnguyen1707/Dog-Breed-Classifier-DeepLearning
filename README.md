@@ -11,6 +11,7 @@ This project uses Convolutional Neural Networks (CNNs) and transfer learning in 
 3. [Content](#contents)
 4. [Findings](#findings)
 5. [Blog_post] (https://medium.com/how-austin-airbnb-hosts-can-earn-extra-from-public/dog-breed-classifier-deep-learning-85282fc8639d)
+6. [Acknowledgements] (#Acknowledgements)
 
 ### Libraries <a name="libraries"></a>
 
@@ -43,10 +44,18 @@ The project is organized along the following steps:
     Step 5: Write Your Algorithm
     Step 6: Test Your Algorithm
 
-### Findings <a name="findings"></a>
+### Conclusion <a name="findings"></a>
 
 * The blog post discusses the walkthrough and outcome of each step in the project are in [here](https://medium.com/how-austin-airbnb-hosts-can-earn-extra-from-public/dog-breed-classifier-deep-learning-85282fc8639d)
 * The model achieved a test accuracy of 81.22%, which is above the 60% established accuracy threshold.
+* Based on the data being tested in this project, the algorithm has > 90% accuracy score when it comes to detect human faces. 
 * The model predicted the same two or three breeds when identifying an image as human. Therefore more variety is needed concerning the type of breeds the model predicts for humans. 
 * Some of the breeds have similar colors and shapes but differ in size, as is the case between a Beagle and a Pointer or American Foxhound. Therefore the model needs to pick up subtle differences between similar breeds. 
 * The model could use some improvements on its ability to classify pictures with noise. This is probably due to the images it was trained on.
+
+
+### Acknowledgements <a name = "Acknowledgements"> </a>
+
+The bulk of this project has been taken from the lessons on the Udacity's Data Science Nanodegree program. I would like to thank the amazing professors and mentors working with Udacity to help me deliver the successful outcome for this capstone project. 
+
+
